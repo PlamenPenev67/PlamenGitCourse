@@ -1,4 +1,5 @@
-line from user1
+Line from user 2
+
 12345
 
 Good evening (from master)
