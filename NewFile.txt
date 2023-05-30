@@ -1,6 +1,8 @@
 Line from user 2
+
 Line from user 1
 Line from user1
+Anather line added
 
 12345
 
